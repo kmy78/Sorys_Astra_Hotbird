@@ -1,0 +1,51 @@
+#NAME Mas IPTV
+#SERVICE 1:64:d3:0:0:0:0:0:0:0:
+#DESCRIPTION :::::ITALIA:::
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//cld02ibi16.wz.tv2000.it/HLS/Tv2000WZ/chunklist.m3u8:Tv 2000 Italia
+#DESCRIPTION Tv 2000 Italia
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//wma07.fluidstream.net%3a1935/TeleArena/livestream/live.m3u8:TELE ARENA
+#DESCRIPTION TELE ARENA
+#SERVICE 1:64:d4:0:0:0:0:0:0:0:
+#DESCRIPTION :::::SPORTS:::
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//adtv.ercdn.net/adsport1/adsport1_720p.m3u8:AD SPORT 1 HD
+#DESCRIPTION AD SPORT 1 HD
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//adtv.ercdn.net/adsport2/adsport2_720p.m3u8:AD SPORT 2 HD
+#DESCRIPTION AD SPORT 2 HD
+#SERVICE 1:64:d5:0:0:0:0:0:0:0:
+#DESCRIPTION :::::MUSICA:::
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//rtmp.one.by%3a1300:ONE 1 HD
+#DESCRIPTION ONE 1 HD
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8:DREAM TV
+#DESCRIPTION DREAM TV
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//stream.1music.hu/stream/1music.m3u8:The Voice
+#DESCRIPTION The Voice
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8:M2O TV
+#DESCRIPTION M2O TV
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//fms.105.net%3a1935/live/105Test1/livestream.m3u8?JoCaRoIPTV.m3u8:Radio 105 TV
+#DESCRIPTION Radio 105 TV
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//tv.portalfoxmix.club%3a1935/portalfoxmix/portalfoxmix/playlist.m3u8?JoCaRoIPTV.m3u8:PortalFoxmix
+#DESCRIPTION PortalFoxmix
+#SERVICE 1:64:d6:0:0:0:0:0:0:0:
+#DESCRIPTION :::::ADULTOS::
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/bigass.m3u8:Big Ass HD
+#DESCRIPTION Big Ass HD
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/bigdick.m3u8:Big Dick HD
+#DESCRIPTION Big Dick HD
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/bigtits.m3u8:Big Tits HD
+#DESCRIPTION Big Tits HD
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/blowjob.m3u8:Blowjob HD
+#DESCRIPTION Blowjob HD
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/cuckold.m3u8:Cuckold HD
+#DESCRIPTION Cuckold HD
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/fetish.m3u8:Fetish HD
+#DESCRIPTION Fetish HD
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/latina.m3u8:Latina HD
+#DESCRIPTION Latina HD
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/pov.m3u8:POV HD
+#DESCRIPTION POV HD
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/russian.m3u8:Russian HD
+#DESCRIPTION Russian HD
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/teen.m3u8:Teen HD
+#DESCRIPTION Teen HD
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/threesome.m3u8:Threesome HD
+#DESCRIPTION Threesome HD
